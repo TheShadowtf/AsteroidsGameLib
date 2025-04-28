@@ -3,7 +3,7 @@
 #include <Wire.h>
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_GFX.h>
-#include "AsteroidsGame.h" // Include your new library
+#include <AsteroidsGame.h> // Include your new library
 
 // --- Display Setup ---
 // #define SCREEN_WIDTH 128 // No longer needed here, defined in library .h
