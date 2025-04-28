@@ -4,9 +4,6 @@
 
 A simple, vector-graphics-inspired Asteroids clone game implemented as an Arduino library for ESP32 microcontrollers, using an SSD1306 OLED display and an analog joystick.
 
-![Gameplay Screenshot/GIF]
-_([ YOUR GIF/SCREENSHOT HERE ] - Replace this line with an actual image/gif link once uploaded, e.g., `![Gameplay Screenshot](docs/gameplay.gif)` )_
-
 ## Overview
 
 This library encapsulates the core game logic for a classic Asteroids game, making it easy to integrate into your ESP32 projects. It handles:
